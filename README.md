@@ -32,6 +32,6 @@
 ---
 
 ##### ⚡Над чем работаю:
-
+-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RTemiy&repo=Chronicles)](https://github.com/RTemiy/Chronicles)
 - [Сайт гостевого дома](https://github.com/RTemiy/guest-house)
 - [Визуальная новелла](https://github.com/RTemiy/Chronicles)
