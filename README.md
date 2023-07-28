@@ -24,5 +24,5 @@
 
 ##### ⚡Над чем работаю:
 
-[![Guest-house]()](https://github.com/RTemiy/guest-house)
-[![Chronicles]()](https://github.com/RTemiy/Chronicles)
+[Сайт гостевого дома](https://github.com/RTemiy/guest-house)
+[Визуальная новелла](https://github.com/RTemiy/Chronicles)
