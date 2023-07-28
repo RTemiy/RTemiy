@@ -24,4 +24,5 @@
 
 ##### ⚡Над чем работаю:
 
-[![Readme Card]()]()
+[![Guest-house]()](https://github.com/RTemiy/guest-house)
+[![Chronicles]()](https://github.com/RTemiy/Chronicles)
