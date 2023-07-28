@@ -5,8 +5,9 @@
 
 ---
 
-##### 🏆 Мои цели:
+##### ⚖️ Статистика:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RTemiy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -23,12 +24,6 @@
 - ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 - ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 - ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
----
-
-##### ⚖️ Моя статистика:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RTemiy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
