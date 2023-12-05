@@ -1,11 +1,20 @@
 ## Привет! Я Артемий и я веб-разработчик
-Прошел обучение на платформе Яндекс Практикум на курсе "Веб-разработчик".
+Прошел обучение на платформе Яндекс Практикум на курсе "Веб-разработчик". 
+Веду собственный проект разработки визуальной новеллы.
 
 ---
 
 ##### ⚡Мое портфолио:
+###### Мой основной проект
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RTemiy&repo=Chronicles)](https://github.com/RTemiy/Chronicles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RTemiy&repo=Chronicles_New)](https://github.com/RTemiy/Chronicles_New)
+###### Фриланс
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RTemiy&repo=guest-house)](https://github.com/RTemiy/guest-house)
+###### Проекты Я.Практикума:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RTemiy&repo=movies-explorer-frontend)](https://github.com/RTemiy/movies-explorer-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RTemiy&repo=mesto-react)](https://github.com/RTemiy/mesto-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RTemiy&repo=russian-travel)](https://github.com/RTemiy/russian-travel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RTemiy&repo=how-to-learn)](https://github.com/RTemiy/how-to-learn)
 
 ---
 
