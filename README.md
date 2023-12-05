@@ -1,5 +1,5 @@
-## Я веб-разработчик
-## Сейчас обучаюсь на платформе Яндекс Практикум на курсе "Веб-разработчик"
+## Привет! Я Артемий и я веб-разработчик
+Прошел обучение на платформе Яндекс Практикум на курсе "Веб-разработчик".
 
 ---
 
@@ -25,6 +25,6 @@
 
 ---
 
-##### ⚡Над чем работаю:
+##### ⚡Мое портфолио:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RTemiy&repo=Chronicles)](https://github.com/RTemiy/Chronicles)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RTemiy&repo=guest-house)](https://github.com/RTemiy/guest-house)
