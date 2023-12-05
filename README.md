@@ -3,9 +3,9 @@
 
 ---
 
-##### ⚖️ Статистика:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RTemiy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+##### ⚡Мое портфолио:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RTemiy&repo=Chronicles)](https://github.com/RTemiy/Chronicles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RTemiy&repo=guest-house)](https://github.com/RTemiy/guest-house)
 
 ---
 
@@ -25,6 +25,7 @@
 
 ---
 
-##### ⚡Мое портфолио:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RTemiy&repo=Chronicles)](https://github.com/RTemiy/Chronicles)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RTemiy&repo=guest-house)](https://github.com/RTemiy/guest-house)
+##### ⚖️ Статистика:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RTemiy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
