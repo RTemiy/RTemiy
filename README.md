@@ -6,7 +6,7 @@
 
 ##### ⚡Мое портфолио:
 ###### Мой основной проект:
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RTemiy&repo=Chronicles)](https://github.com/RTemiy/Chronicles)
+- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RTemiy&repo=Chronicles_New)](https://github.com/RTemiy/Chronicles_New)
 ###### Фриланс проекты:
 - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RTemiy&repo=guest-house)](https://github.com/RTemiy/guest-house)
 ###### Проекты Я.Практикума:
